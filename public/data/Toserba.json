@@ -1,0 +1,24 @@
+{
+    "Toserba": [
+        {
+            "IdProduk": "101",
+            "NamaProduk": "Bolpoin Kualitas Tinggi",
+            "Warna": "Biru",
+            "Jenis": "Tinta Gel",
+            "Harga": "15000",
+            "Stok": 100,
+            "Vendor": "Stationery Co.",
+            "Deskripsi": "Bolpoin dengan tinta gel yang halus dan nyaman digunakan."
+        },
+        {
+            "IdProduk": "202",
+            "NamaProduk": "Sendok Kayu Tradisional",
+            "Panjang": "20 cm",
+            "Material": "Kayu Jati",
+            "Harga": "25000",
+            "Stok": 50,
+            "Vendor": "Handmade Crafts",
+            "Deskripsi": "Sendok kayu handmade yang ramah lingkungan dan tahan lama."
+        }
+    ]
+}
